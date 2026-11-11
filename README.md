@@ -1,2 +1,2 @@
 # Document preservation and governance
-Class project
+sample, methodology, tools, repository structure, and major findings
