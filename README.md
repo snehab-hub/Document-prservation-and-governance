@@ -1,4 +1,6 @@
 # Document preservation and governance
+
+# Repository structure
 # Sampling strategy
 ### Sampling Strategy Using ChatGPT
 
