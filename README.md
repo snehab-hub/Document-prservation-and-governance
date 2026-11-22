@@ -8,7 +8,7 @@ ChatGPT was used to assist in selecting a [representative sample](https://github
 
 A purposive sampling approach was adopted to capture meaningful differences within the archive rather than selecting documents randomly. [Nine documents](https://github.com/snehab-hub/Document-prservation-and-governance/tree/main/sample%20pdfs/representative_pdf_sample_Sneha/Pdfs) were selected to represent different technical characteristics and preservation challenges.
 
-### Sampling strategy (Claude): 
+### Sampling strategy using Claude 
 
 I used Claude Desktop to sample the PDFs. I prompted it to create a sampling strategy and gave it access to my computer files. Since my teammates had already sampled and chosen their pdfs, I asked Claude to avoid choosing the same files. In my prompt, I also mentioned that I wanted a diverse sample that represents all kinds of content present in the folder. Claude did stratified sampling. Every PDF was first profiled with pdfinfo and text extraction. Each file was classed as born-digital (78%), scanned (19.5%) or mixed (3%), and assigned a document type from its first-page text, using OCR when the page had no text (scanned images). The 18 teammates' files and their 3 copies, plus all other duplicates, were then removed, leaving 673 unique files. The 9 slots were split across seven document-type groups in proportion to their share of the archive, with at least one slot per group. The split was 7 born-digital and 2 scanned files, matching the archive. Each slot was given a different year window to cover 2014–2021, and one file was drawn at random (seed 5290) from those matching its type, format, and years. Finally, each file’s details were verified against the PDF itself.
 
