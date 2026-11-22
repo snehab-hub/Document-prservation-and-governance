@@ -24,9 +24,7 @@ Step 5 — Sensitive Data Review: Documents were examined for personal contact d
 
 Step 6 — Verification: The recorded metadata and technical characteristics were compared with the original PDFs. AI-generated findings were reviewed because some initial results, including page counts and text-layer classifications, required correction.
 
-# Tools 
-
-## Tools Used
+# Tools Used 
 
 | Tool | Purpose |
 |---|---|
