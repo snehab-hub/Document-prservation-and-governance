@@ -28,7 +28,7 @@ Step 6 — Verification: The recorded metadata and technical characteristics wer
 
 | Tool | Purpose |
 |---|---|
-| **ChatGPT** | Assisted with representative PDF sampling, generating screenshots, identifying technical characteristics, and documenting findings. |
+| **ChatGPT** | Assisted with representative PDF sampling. |
 | **Microsoft Excel** | Used to record PDF metadata, document types, page counts, text-layer status, OCR requirements, sensitive data, and preservation concerns. |
 | **Adobe Acrobat** | Used to visually inspect original PDFs and verify document content, page counts, and metadata information. |
 | **GitHub** | Used as a shared repository to organize sample PDFs, supporting materials, documentation, and project findings. |
