@@ -41,7 +41,7 @@ Step 6 — Verification: The recorded metadata and technical characteristics wer
 
 - **Missing and Inconsistent Metadata:** Several sampled PDFs contained incomplete or inaccurate metadata, which could affect document identification, classification, searchability, and retrieval.
 
-- **OCR and Searchability Issues:** The image-based document `970.pdf` lacked a searchable text layer, indicating the need for Optical Character Recognition (OCR) to improve accessibility and text retrieval.
+- **OCR and Searchability Issues:** The image-based document `970.pdf` lacked a searchable text layer, indicating the need for Optical Character Recognition (OCR) to improve accessibility and text retrieval. `261.pdf` (20 pages) and `352.pdf` (43 pages) have no text layer and are stored rotated 270°. 
 
 - **Duplicate Documents:** Exact duplicates, such as `1156.pdf` and `1157.pdf`, were identified. Duplicate files may lead to unnecessary storage consumption and confusion during document retrieval and management.
 
