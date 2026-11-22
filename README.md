@@ -7,4 +7,9 @@ ChatGPT was used to assist in selecting a representative sample from the PDF arc
 A purposive sampling approach was adopted to capture meaningful differences within the archive rather than selecting documents randomly. Nine documents were selected to represent different technical characteristics and preservation challenges.
 
 
-methodology, tools, repository structure, and major findings
+# Methodology
+
+
+
+
+tools, repository structure, and major findings
