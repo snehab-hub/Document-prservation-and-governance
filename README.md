@@ -1,7 +1,7 @@
 # Document preservation and governance
 
-# Repository structure
-# Sampling strategy
+## Repository structure
+## Sampling strategy
 ### Sampling Strategy Using ChatGPT
 
 ChatGPT was used to assist in selecting a representative sample from the PDF archive. The archive (ZIP file) was uploaded to ChatGPT, and a prompt was provided to generate a sample ZIP file containing screenshots of selected PDFs, along with a rationale for selecting each document. The sampling approach was focused on variations in document length, metadata quality, text extractability, scanned documents, and duplicate files. Through this process, documents suitable for further analysis of preservation risks and document quality were identified. The selected samples were also reviewed to verify the accuracy of the AI-generated information.
@@ -9,7 +9,7 @@ ChatGPT was used to assist in selecting a representative sample from the PDF arc
 A purposive sampling approach was adopted to capture meaningful differences within the archive rather than selecting documents randomly. Nine documents were selected to represent different technical characteristics and preservation challenges.
 
 
-# Methodology
+## Methodology
 The analysis involved examining the selected PDFs and recording their technical and descriptive characteristics in an Excel inventory.
 
 Step 1 — Document Inspection: Each PDF was examined to identify its filename, document type, page count, creation date, modification date, and technical characteristics.
@@ -24,7 +24,7 @@ Step 5 — Sensitive Data Review: Documents were examined for personal contact d
 
 Step 6 — Verification: The recorded metadata and technical characteristics were compared with the original PDFs. AI-generated findings were reviewed because some initial results, including page counts and text-layer classifications, required correction.
 
-# Tools Used 
+## Tools Used 
 
 | Tool | Purpose |
 |---|---|
@@ -33,7 +33,7 @@ Step 6 — Verification: The recorded metadata and technical characteristics wer
 | **Adobe Acrobat** | Used to visually inspect original PDFs and verify document content, page counts, and metadata information. |
 | **GitHub** | Used as a shared repository to organize sample PDFs, supporting materials, documentation, and project findings. |
 
-# Major findings
+## Major findings
 
 - **Missing and Inconsistent Metadata:** Several sampled PDFs contained incomplete or inaccurate metadata, which could affect document identification, classification, searchability, and retrieval.
 
