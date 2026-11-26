@@ -8,6 +8,7 @@
 
 - [README.md](https://github.com/snehab-hub/Document-prservation-and-governance/blob/main/README.md) – Contains project documentation, methodology, and major findings.
 
+### Sampling Strategy Using ChatGPT
 
 ChatGPT was used to assist in selecting a [representative sample](https://github.com/snehab-hub/Document-prservation-and-governance/tree/main/sample%20pdfs/representative_pdf_sample_Sneha/Pdfs) from the PDF archive. The archive (ZIP file) was uploaded to ChatGPT, and a prompt was provided to generate a sample ZIP file containing screenshots of selected PDFs, along with a rationale for selecting each document. The sampling approach was focused on variations in document length, metadata quality, text extractability, scanned documents, and duplicate files. Through this process, documents suitable for further analysis of preservation risks and document quality were identified. The selected samples were also reviewed to verify the accuracy of the AI-generated information.
 
